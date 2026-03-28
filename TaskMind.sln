@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36804.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskMind.Api", "backend\TaskMind.Api\TaskMind.Api.csproj", "{45555D47-BE45-0F15-2828-151A4D38506A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45555D47-BE45-0F15-2828-151A4D38506A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45555D47-BE45-0F15-2828-151A4D38506A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45555D47-BE45-0F15-2828-151A4D38506A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45555D47-BE45-0F15-2828-151A4D38506A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9483B351-1AA6-4CB7-BA00-F54E32F7243C}
+	EndGlobalSection
+EndGlobal
